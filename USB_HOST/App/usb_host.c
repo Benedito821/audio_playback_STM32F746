@@ -33,8 +33,6 @@
 /* USER CODE BEGIN PV */
 /* Private variables ---------------------------------------------------------*/
 FATFS USBH_FatFs;
-//USBH_HandleTypeDef hUSBHost;
-//char USBDISKPath[4];          /* USB Host logical drive path */
 /* USER CODE END PV */
 
 /* USER CODE BEGIN PFP */
